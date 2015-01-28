@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace ElectronicPaper
+namespace SmartSchool.ePaper
 {
     public partial class ProgressForm : BaseForm
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ElectronicPaper
+namespace SmartSchool.ePaper
 {
     public enum ViewerType
     {

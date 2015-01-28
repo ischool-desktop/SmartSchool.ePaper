@@ -8,8 +8,8 @@
     <ProjectGuid>{9CB3E530-F207-445A-BD1A-0638966FB15C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ElectronicPaper</RootNamespace>
-    <AssemblyName>ElectronicPaper</AssemblyName>
+    <RootNamespace>SmartSchool.ePaper</RootNamespace>
+    <AssemblyName>SmartSchool.ePaper</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SccProjectName>SAK</SccProjectName>

@@ -9,7 +9,7 @@ using System.Xml;
 using FISCA.DSAUtil;
 using FISCA.Presentation.Controls;
 
-namespace ElectronicPaper
+namespace SmartSchool.ePaper
 {
     public partial class ElectronicPaperManager : BaseForm
     {

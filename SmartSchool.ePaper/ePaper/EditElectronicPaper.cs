@@ -4,7 +4,7 @@ using System.Text;
 using System.Xml;
 using FISCA.DSAUtil;
 
-namespace ElectronicPaper
+namespace SmartSchool.ePaper
 {
     public static class EditElectronicPaper
     {

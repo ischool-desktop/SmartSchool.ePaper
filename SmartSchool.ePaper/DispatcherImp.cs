@@ -1,11 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using ElectronicPaper;
-using ElectronicPaper;
 using FISCA.DSAUtil;
 
-namespace ElectronicPaper
+namespace SmartSchool.ePaper
 {
     public class DispatcherImp : IPaperDispatcher
     {

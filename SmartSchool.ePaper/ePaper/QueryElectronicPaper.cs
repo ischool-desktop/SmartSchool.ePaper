@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using FISCA.DSAUtil;
 
-namespace ElectronicPaper
+namespace SmartSchool.ePaper
 {
     public static class QueryElectronicPaper
     {

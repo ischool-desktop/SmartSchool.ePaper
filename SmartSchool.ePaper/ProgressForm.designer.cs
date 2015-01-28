@@ -1,4 +1,4 @@
-﻿namespace ElectronicPaper
+﻿namespace SmartSchool.ePaper
 {
     partial class ProgressForm
     {
